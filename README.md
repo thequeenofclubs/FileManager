@@ -1,4 +1,4 @@
-# VFM: Valerie's File Manager Program
+# VFM: Valerie's File Manager
 VFM is a simple, yet powerful file manager which can run inside your shell. 
 > Installation Instructions are located at the bottom of this file.
 
